@@ -1,0 +1,182 @@
+{
+    "Elevated Button": {
+        "prefix": "gf-bu-elevated",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "),",
+        ],
+        "description": "Elevated Button"
+    },
+    "Elevated Button Disabled": {
+        "prefix": "gf-bu-elevated-disabled",
+        "body": [
+            "GFButton(",
+            "  onPressed: null,",
+            "  text: \"primary\",",
+            "),",
+        ],
+        "description": "Elevated Button Disabled"
+    },
+    "Elevated Button Transparent": {
+        "prefix": "gf-bu-elevated-transparent",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  type: GFButtonType.transparent,",
+            "),",
+        ],
+        "description": "Elevated Button Transparent"
+    },
+    "Elevated Block Button": {
+        "prefix": "gf-bu-elevated-block",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  blockButton: true,",
+            "),",
+        ],
+        "description": "Elevated Block Button"
+    },
+    "Elevated Full-Width Button": {
+        "prefix": "gf-bu-elevated-full-width",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  fullWidthButton: true,",
+            "),",
+        ],
+        "description": "Elevated Full-Width Button"
+    },
+    "Elevated Outline Button": {
+        "prefix": "gf-bu-elevated-outline",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  type: GFButtonType.outline,",
+            "),",
+        ],
+        "description": "Elevated Outline Button"
+    },
+    "Pills Button": {
+        "prefix": "gf-bu-pills",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  shape: GFButtonShape.pills,",
+            "),",
+        ],
+        "description": "Pills Button"
+    },
+    "Pills Button Disabled": {
+        "prefix": "gf-bu-pills-disabled",
+        "body": [
+            "GFButton(",
+            "  onPressed: null,",
+            "  text: \"primary\",",
+            "  shape: GFButtonShape.pills,",
+            "),",
+        ],
+        "description": "Pills Button Disabled"
+    },
+    "Pills Block Button": {
+        "prefix": "gf-bu-pills-block",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  shape: GFButtonShape.pills,",
+            "  blockButton: true,",
+            "),",
+        ],
+        "description": "Pills Block Button"
+    },
+    "Pills Full-Width Button": {
+        "prefix": "gf-bu-pills-full-width",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  shape: GFButtonShape.pills,",
+            "  fullWidthButton: true,",
+            "),",
+        ],
+        "description": "Pills Full-Width Button"
+    },
+    "Pills Outline Button": {
+        "prefix": "gf-bu-pills-outline",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  shape: GFButtonShape.pills,",
+            "  type: GFButtonType.outline,",
+            "),",
+        ],
+        "description": "Pills Outline Button"
+    },
+    "Square Button": {
+        "prefix": "gf-bu-square",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  shape: GFButtonShape.square,",
+            "),",
+        ],
+        "description": "Square Button"
+    },
+    "Square Button Disabled": {
+        "prefix": "gf-bu-square-disabled",
+        "body": [
+            "GFButton(",
+            "  onPressed: null,",
+            "  text: \"primary\",",
+            "  shape: GFButtonShape.square,",
+            "),",
+        ],
+        "description": "Square Button Disabled"
+    },
+    "Square Block Button": {
+        "prefix": "gf-bu-square-block",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  shape: GFButtonShape.square,",
+            "  blockButton: true,",
+            "),",
+        ],
+        "description": "Square Block Button"
+    },
+    "Square Full-Width Button": {
+        "prefix": "gf-bu-square-full-width",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  shape: GFButtonShape.square,",
+            "  fullWidthButton: true,",
+            "),",
+        ],
+        "description": "Square Full-Width Button"
+    },
+    "Square Outline Button": {
+        "prefix": "gf-bu-square-outline",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  shape: GFButtonShape.square,",
+            "  type: GFButtonType.outline,",
+            "),",
+        ],
+        "description": "Square Outline Button"
+    },
+}

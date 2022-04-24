@@ -1,0 +1,21 @@
+{
+  "name": "flutter-getwidget-snippet",
+  "displayName": "flutter-getwidget-snippet",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "SonalSithara",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "dart",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
