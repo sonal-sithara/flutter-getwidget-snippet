@@ -41,7 +41,7 @@
         ],
         "description": "Elevated Block Button"
     },
-    "Elevated Full-Width Button": {
+    "Elevated Full Width Button": {
         "prefix": "gf-bu-elevated-full-width",
         "body": [
             "GFButton(",
@@ -50,7 +50,7 @@
             "  fullWidthButton: true,",
             "),",
         ],
-        "description": "Elevated Full-Width Button"
+        "description": "Elevated Full Width Button"
     },
     "Elevated Outline Button": {
         "prefix": "gf-bu-elevated-outline",
@@ -97,7 +97,7 @@
         ],
         "description": "Pills Block Button"
     },
-    "Pills Full-Width Button": {
+    "Pills Full Width Button": {
         "prefix": "gf-bu-pills-full-width",
         "body": [
             "GFButton(",
@@ -107,7 +107,7 @@
             "  fullWidthButton: true,",
             "),",
         ],
-        "description": "Pills Full-Width Button"
+        "description": "Pills Full Width Button"
     },
     "Pills Outline Button": {
         "prefix": "gf-bu-pills-outline",
@@ -155,7 +155,7 @@
         ],
         "description": "Square Block Button"
     },
-    "Square Full-Width Button": {
+    "Square Full Width Button": {
         "prefix": "gf-bu-square-full-width",
         "body": [
             "GFButton(",
@@ -165,7 +165,7 @@
             "  fullWidthButton: true,",
             "),",
         ],
-        "description": "Square Full-Width Button"
+        "description": "Square Full Width Button"
     },
     "Square Outline Button": {
         "prefix": "gf-bu-square-outline",
@@ -178,5 +178,100 @@
             "),",
         ],
         "description": "Square Outline Button"
+    },
+    "Icon Button": {
+        "prefix": "gf-bu-icon",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  icon: Icon(Icons.share),",
+            "),",
+        ],
+        "description": "Icon Button"
+    },
+    "Icon Button Disabled": {
+        "prefix": "gf-bu-icon-disabled",
+        "body": [
+            "GFIconButton(",
+            "  onPressed: null,",
+            "  text: \"primary\",",
+            "),",
+        ],
+        "description": "Icon Button Disabled"
+    },
+    "Icon Outline Button": {
+        "prefix": "gf-bu-icon-outline",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  icon: Icon(Icons.share),",
+            "  type: GFButtonType.outline,",
+            "),",
+        ],
+        "description": "Icon Outline Button"
+    },
+    "Icon Transparent Button": {
+        "prefix": "gf-bu-icon-transparent",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  icon: Icon(Icons.share),",
+            "  type: GFButtonType.transparent,",
+            "),",
+        ],
+        "description": "Icon Transparent Button"
+    },
+    "Icon Pills Button": {
+        "prefix": "gf-bu-icon-pills",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  icon: Icon(Icons.share),",
+            "  shape: GFButtonShape.pills,",
+            "),",
+        ],
+        "description": "Icon Pills Button"
+    },
+    "Icon Square Button": {
+        "prefix": "gf-bu-icon-square",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  icon: Icon(Icons.share),",
+            "  shape: GFButtonShape.square,",
+            "),",
+        ],
+        "description": "Icon Square Button"
+    },
+    "Icon Block Button": {
+        "prefix": "gf-bu-icon-block",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  icon: Icon(Icons.share),",
+            "  shape: GFButtonShape.solid,",
+            "  blockButton: true,",
+            "),",
+        ],
+        "description": "Icon Block Button"
+    },
+    "Icon Full Width Button": {
+        "prefix": "gf-bu-icon-full-width",
+        "body": [
+            "GFButton(",
+            "  onPressed: (){},",
+            "  text: \"primary\",",
+            "  icon: Icon(Icons.share),",
+            "  shape: GFButtonShape.solid,",
+            "  fullWidthButton: true,",
+            "),",
+        ],
+        "description": "Icon Full Width Button"
     },
 }
