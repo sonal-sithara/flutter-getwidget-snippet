@@ -1,6 +1,6 @@
 # Flutter Getwidget Snippet
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/SonalSithara.spring-code-generator.svg)](https://marketplace.visualstudio.com/items?itemName=SonalSithara.spring-code-generator) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/SonalSithara.spring-code-generator.svg)](https://marketplace.visualstudio.com/items?itemName=SonalSithara.spring-code-generator) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/SonalSithara.spring-code-generator.svg)](https://marketplace.visualstudio.com/items?itemName=SonalSithara.spring-code-generator) ![](https://img.shields.io/github/stars/Sonal23520/flutter-getwidget-snippet?style=social&label=Star&maxAge=2592000)
+[![Version](https://vsmarketplacebadge.apphb.com/version/SonalSithara.flutter-getwidget-snippet.svg)](https://marketplace.visualstudio.com/items?itemName=SonalSithara.flutter-getwidget-snippet) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/SonalSithara.flutter-getwidget-snippet.svg)](https://marketplace.visualstudio.com/items?itemName=SonalSithara.flutter-getwidget-snippet) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/SonalSithara.flutter-getwidget-snippet.svg)](https://marketplace.visualstudio.com/items?itemName=SonalSithara.flutter-getwidget-snippet) ![](https://img.shields.io/github/stars/Sonal23520/flutter-getwidget-snippet?style=social&label=Star&maxAge=2592000)
 
 ![](https://i.postimg.cc/nLRNDdJb/cover.webp)
 
