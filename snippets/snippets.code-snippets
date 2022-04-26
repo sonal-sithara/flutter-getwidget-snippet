@@ -1392,7 +1392,7 @@
     "description": "Checkbox Crcle"
   },
   "Checkbox List Tile": {
-    "prefix": "gf-tile-checkbox",
+    "prefix": "gf-checkbox-tile",
     "body": [
       "bool isChecked = false;",
       "",
@@ -1715,7 +1715,7 @@
     "description": "Radio Square"
   },
   "Radio List Tile": {
-    "prefix": "gf-tile-radio",
+    "prefix": "gf-radio-tile",
     "body": [
       "int groupValue = 0;",
       "",

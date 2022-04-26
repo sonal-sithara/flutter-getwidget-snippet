@@ -1,65 +1,217 @@
-# flutter-getwidget-snippet README
+# Flutter Getwidget Snippet
 
-This is the README for your extension "flutter-getwidget-snippet". After writing up a brief description, we recommend including the following sections.
+[![Version](https://vsmarketplacebadge.apphb.com/version/SonalSithara.spring-code-generator.svg)](https://marketplace.visualstudio.com/items?itemName=SonalSithara.spring-code-generator) [![Downloads](https://vsmarketplacebadge.apphb.com/downloads/SonalSithara.spring-code-generator.svg)](https://marketplace.visualstudio.com/items?itemName=SonalSithara.spring-code-generator) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/SonalSithara.spring-code-generator.svg)](https://marketplace.visualstudio.com/items?itemName=SonalSithara.spring-code-generator) ![](https://img.shields.io/github/stars/Sonal23520/flutter-getwidget-snippet?style=social&label=Star&maxAge=2592000)
 
-## Features
+![](https://i.postimg.cc/nLRNDdJb/cover.webp)
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+#### Open source ui library for flutter app
 
-For example if there is an image subfolder under your extension project workspace:
+![](https://image.ionicfirebaseapp.com/getwidget/link_share_a_T_c_Hz_GY_9_e83560f331.png)
 
-\!\[feature X\]\(images/feature-x.png\)
+##### You can find out more information about docs :- [Get Widget Docs](https://docs.getwidget.dev/ "Get Widget Docs")
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Button
 
-## Requirements
+| Perfix                     | Description                 |
+| -------------------------- | --------------------------- |
+| gf-bu-elevated             | Elevated Button             |
+| gf-bu-elevated-disabled    | Elevated Button Disabled    |
+| gf-bu-elevated-transparent | Elevated Button Transparent |
+| gf-bu-elevated-block       | Elevated Block Button       |
+| gf-bu-elevated-full-width  | Elevated Full Width Button  |
+| gf-bu-elevated-outline     | Elevated Outline Button     |
+| gf-bu-pills                | Pills Button                |
+| gf-bu-pills-disabled       | Pills Button Disabled       |
+| gf-bu-pills-block          | Pills Block Button          |
+| gf-bu-pills-full-width     | Pills Full Width Button     |
+| gf-bu-pills-outline        | Pills Outline Button        |
+| gf-bu-square               | Square Button               |
+| gf-bu-square-disabled      | Square Button Disabled      |
+| gf-bu-square-block         | Square Block Button         |
+| gf-bu-square-full-width    | Square Full Width Button    |
+| gf-bu-square-outline       | Square Outline Button       |
+| gf-bu-icon                 | Icon Button                 |
+| gf-bu-icon-disabled        | Icon Button Disabled        |
+| gf-bu-icon-outline         | Icon Outline Button         |
+| gf-bu-icon-transparent     | Icon Transparent Button     |
+| gf-bu-icon-pills           | Icon Pills Button           |
+| gf-bu-icon-square          | Icon Square Button          |
+| gf-bu-icon-block           | Icon Block Button           |
+| gf-bu-icon-full-width      | Icon Full Width Button      |
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Badge
 
-## Extension Settings
+| Perfix               | Description           |
+| :------------------- | :-------------------- |
+| gf-badge             | Badge                 |
+| gf-bu-badge          | Button Badge          |
+| gf-bu-badge-disabled | Button Badge Disabled |
+| gf-bu-badge-outline  | Button Badge Outline  |
+| gf-bu-badge-icon     | Button Badge Icon     |
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## Avatar
 
-For example:
+| Perfix             | Description     |
+| :----------------- | :-------------- |
+| gf-avatar-circle   | Circle Avatar   |
+| gf-avatar-standard | Standard Avatar |
+| gf-avatar-square   | Square Avatar   |
 
-This extension contributes the following settings:
+## Image
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
+| Perfix           | Description   |
+| :--------------- | :------------ |
+| gf-image-asset   | Image Asset   |
+| gf-image-network | Image Network |
+| gf-image-overlay | Image Overlay |
+| gf-image-circle  | Image Circle  |
 
-## Known Issues
+## Card
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+| Perfix                | Description            |
+| :-------------------- | :--------------------- |
+| gf-card               | Card                   |
+| gf-card-overlay-image | Card With OverlayImage |
 
-## Release Notes
+## Carousel
 
-Users appreciate release notes as you update your extension.
+| Perfix             | Description                  |
+| :----------------- | :--------------------------- |
+| gf-carousel-slider | Carousel Slider              |
+| gf-carousel-items  | Carousel With Multiple Items |
 
-### 1.0.0
+## Tile
 
-Initial release of ...
+| Perfix         | Description      |
+| :------------- | :--------------- |
+| gf-tile        | Tile             |
+| gf-tile-avatar | Tile With Avatar |
 
-### 1.0.1
+## Tab Bar
 
-Fixed issue #.
+| Perfix     | Description      |
+| :--------- | :--------------- |
+| gf-tab-bar | Tab Bar Standard |
 
-### 1.1.0
+## Floating Widget
 
-Added features X, Y, and Z.
+| Perfix      | Description     |
+| :---------- | :-------------- |
+| gf-floating | Floating Widget |
 
------------------------------------------------------------------------------------------------------------
+## Toast
 
-## Working with Markdown
+| Perfix   | Description |
+| :------- | :---------- |
+| gf-toast | Toast       |
 
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Toggle
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+| Perfix           | Description   |
+| :--------------- | :------------ |
+| gf-toggle        | Toggle        |
+| gf-toggle-ios    | Toggle IOS    |
+| gf-toggle-square | Toggle Square |
 
-### For more information
+## Drawer
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+| Perfix    | Description |
+| :-------- | :---------- |
+| gf-drawer | Drawer      |
 
-**Enjoy!**
+## Accordion
+
+| Perfix       | Description |
+| :----------- | :---------- |
+| gf-accordion | Accordion   |
+
+## Alert
+
+| Perfix   | Description |
+| :------- | :---------- |
+| gf-alert | Alert       |
+
+## AppBar
+
+| Perfix           | Description   |
+| :--------------- | :------------ |
+| gf-appbar        | AppBar        |
+| gf-appbar-search | AppBar Search |
+| gf-appbar-tabs   | AppBar Tabs   |
+
+## SearchBar
+
+| Perfix       | Description |
+| :----------- | :---------- |
+| gf-searchbar | SearchBar   |
+
+## Rating
+
+| Perfix         | Description      |
+| :------------- | :--------------- |
+| gf-rating      | Rating           |
+| gf-rating-text | Rating With Text |
+
+## Dropdown
+
+| Perfix      | Description |
+| :---------- | :---------- |
+| gf-dropdown | Dropdown    |
+
+## Loader
+
+| Perfix    | Description |
+| :-------- | :---------- |
+| gf-loader | Loader      |
+
+## Progress Bar
+
+| Perfix             | Description         |
+| :----------------- | :------------------ |
+| gf-progress-line   | Line Progress Bar   |
+| gf-progress-circle | Circle Progress Bar |
+
+## Shimmer
+
+| Perfix     | Description |
+| :--------- | :---------- |
+| gf-shimmer | Shimmer     |
+
+## Border
+
+| Perfix           | Description   |
+| :--------------- | :------------ |
+| gf-border-solid  | Border Solid  |
+| gf-border-dashed | Border Dashed |
+| gf-border-dotted | Border Dotted |
+| gf-border-circle | Border Circle |
+
+## Bottomsheet
+
+| Perfix         | Description |
+| :------------- | :---------- |
+| gf-bottomsheet | Bottomsheet |
+
+## Checkbox
+
+| Perfix             | Description                   |
+| :----------------- | :---------------------------- |
+| gf-checkbox-basic  | Checkbox Basic                |
+| gf-checkbox-square | Checkbox Square               |
+| gf-checkbox-circle | Checkbox Circle               |
+| gf-checkbox-tile   | Checkbox List Tile            |
+| gf-checkbox-multi  | Checkbox Multiselect Dropdown |
+
+## Intro
+
+| Perfix   | Description  |
+| :------- | :----------- |
+| gf-intro | Intro Screen |
+
+## Radio
+
+| Perfix          | Description     |
+| :-------------- | :-------------- |
+| gf-radio-circle | Radio Circle    |
+| gf-radio-square | Radio Square    |
+| gf-radio-tile   | Radio List Tile |
