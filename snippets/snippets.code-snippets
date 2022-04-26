@@ -1421,7 +1421,7 @@
     ],
     "description": "Checkbox List Tile"
   },
-  "Checkbox Multi": {
+  "Checkbox Multiselect Dropdown": {
     "prefix": "gf-checkbox-multi",
     "body": [
       "GFMultiSelect(",
@@ -1458,7 +1458,7 @@
       "  inactiveBorderColor: Colors.grey[200],",
       "),"
     ],
-    "description": "Checkbox Multi"
+    "description": "Checkbox Multiselect Dropdown"
   },
   "Intro": {
     "prefix": "gf-intro",
