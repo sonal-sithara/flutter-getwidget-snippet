@@ -4,6 +4,7 @@
   "description": "",
   "version": "0.0.1",
   "publisher": "SonalSithara",
+  "icon": "image/logo.png",
   "repository": "https://github.com/Sonal23520/flutter-getwidget-snippet",
   "engines": {
     "vscode": "^1.66.0"
