@@ -1,11 +1,11 @@
 {
   "name": "flutter-getwidget-snippet",
   "displayName": "Flutter Getwidget Snippet",
-  "description": "Flutter Getwidget Snippet",
-  "version": "0.0.1",
+  "description": "A snippet extension for Visual Studio Code based on flutter getwidget library.",
+  "version": "1.0.0",
   "publisher": "SonalSithara",
   "icon": "image/logo.png",
-  "repository": "https://github.com/Sonal23520/flutter-getwidget-snippet",
+  "repository": "https://github.com/sonal-sithara/flutter-getwidget-snippet",
   "engines": {
     "vscode": "^1.66.0"
   },
